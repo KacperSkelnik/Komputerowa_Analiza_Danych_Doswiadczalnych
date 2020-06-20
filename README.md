@@ -1,2 +1,1 @@
-Komputerowa_Analiza_Danych_Doswiadczalnych
-Moje programy na zajęcia
+Komputerowa_Analiza_Danych_Doswiadczalnych - moje programy na zajęcia
